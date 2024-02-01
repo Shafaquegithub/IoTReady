@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IoTReady/static/css/main.9eb194d3.css",
+    "main.js": "/IoTReady/static/js/main.e5929485.js",
+    "index.html": "/IoTReady/index.html",
+    "main.9eb194d3.css.map": "/IoTReady/static/css/main.9eb194d3.css.map",
+    "main.e5929485.js.map": "/IoTReady/static/js/main.e5929485.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eb194d3.css",
+    "static/js/main.e5929485.js"
+  ]
+}
